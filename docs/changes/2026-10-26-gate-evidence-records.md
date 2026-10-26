@@ -99,7 +99,7 @@ commit 或发布标识。任务完成、阶段门禁通过和正式发布验收�
 - 记录方式：本文件内嵌
 - 证据位置或索引：本文件第 3、5、6、7 节；`AGENTS.md` 4.6、4.8；
   `standards/01-requirements.md` 至 `standards/05-release-operations.md`；
-  `templates/gate-review.md`；`templates/change-record.md`
+  后续 `0.4.0` 已把当时的评审模板规则合并回 `AGENTS.md` 4.6。
 - 任务状态：完成
 - 阶段门禁状态：`G1 = PASS`，`G2 = PASS`，`G3 = NOT_TRIGGERED`，
   `G4 = PASS`，`G5 = NOT_TRIGGERED`
